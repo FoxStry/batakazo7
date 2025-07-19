@@ -5,6 +5,10 @@
        font-weight: normal;
    }
 
+.body {
+         cursor: url("cursor.png"), auto;
+       }
+
 .redirectbutton{
   background-color: #a31802;
   border: none;
