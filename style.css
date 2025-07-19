@@ -5,8 +5,8 @@
        font-weight: normal;
    }
 
-body {
-         cursor: url("cursor.png"), auto;
+body{
+       cursor: url("cursor.png"), auto;
 }
 
 .redirectbutton{
