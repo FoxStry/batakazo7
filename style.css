@@ -38,7 +38,7 @@ body{
 .redesbutton{
   margin: 16px;
   font-size: 2em;
-  font-family: "regular", sans-serif;
+  font-family: "regular", "regular1", "regular2", sans-serif;
 }
 
 .titulobatu {
